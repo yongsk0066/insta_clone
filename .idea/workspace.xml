@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e371726-aeb5-407c-8b5f-520089419203" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instagram/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/instagram/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/images/models.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,11 +12,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/instagram/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="105" column="32" lean-forward="true" selection-start-line="105" selection-start-column="32" selection-end-line="105" selection-end-column="32" />
+            <state relative-caret-position="205">
+              <caret line="97" column="5" lean-forward="true" selection-start-line="97" selection-start-column="5" selection-end-line="97" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/images/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -83,6 +84,7 @@
       <list>
         <option value="$PROJECT_DIR$/users/models.py" />
         <option value="$PROJECT_DIR$/instagram/settings.py" />
+        <option value="$PROJECT_DIR$/images/models.py" />
       </list>
     </option>
   </component>
@@ -104,6 +106,11 @@
             <path>
               <item name="instagram" type="b2602c69:ProjectViewProjectNode" />
               <item name="instagram" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="instagram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="instagram" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="instagram" type="b2602c69:ProjectViewProjectNode" />
@@ -174,12 +181,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559311647166</updated>
-      <workItem from="1559311684547" duration="4606000" />
+      <workItem from="1559311684547" duration="5192000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4606000" />
+    <option name="totallyTimeSpent" value="5192000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1536" height="864" extended-state="6" />
@@ -253,8 +260,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/instagram/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="105" column="32" lean-forward="true" selection-start-line="105" selection-start-column="32" selection-end-line="105" selection-end-column="32" />
+        <state relative-caret-position="205">
+          <caret line="97" column="5" lean-forward="true" selection-start-line="97" selection-start-column="5" selection-end-line="97" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
